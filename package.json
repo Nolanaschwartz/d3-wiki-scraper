@@ -1,0 +1,16 @@
+{
+  "name": "d3-wiki-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^120.0.0",
+    "puppeteer": "^20.7.3"
+  }
+}
